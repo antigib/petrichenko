@@ -5,8 +5,8 @@ let incr = 10,
 
 // ++incr;
 // --decr;
-
-
+const vv = 57
+console.log(vv)
 
 console.log(++incr);
 console.log(--decr);
